@@ -1,0 +1,2 @@
+# tehxyz
+still trying testnet
